@@ -32,7 +32,7 @@ This project is a Java-based web server designed to compare the performance of s
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/multithreaded-web-server.git
-    cd multithreaded-web-server
+    cd Java-Based-Multi-threaded-Web-Server
     ```
 
 2. Compile the project:
